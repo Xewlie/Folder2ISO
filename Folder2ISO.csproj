@@ -6,6 +6,7 @@
         <Nullable>enable</Nullable>
         <UseWindowsForms>true</UseWindowsForms>
         <ImplicitUsings>enable</ImplicitUsings>
+        <ApplicationIcon>CD-1.ico</ApplicationIcon>
     </PropertyGroup>
 
 </Project>

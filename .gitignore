@@ -1,7 +1,6 @@
 # Rider
 .idea/
 *.sln.iml
-*.ico
 *.pdb
 *.dll
 *.exe
@@ -47,7 +46,6 @@ ipch/
 # Combined
 .idea/
 *.sln.iml
-*.ico
 *.pdb
 *.dll
 *.exe
